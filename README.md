@@ -1,5 +1,5 @@
 # Defolderize
-Copy all files in (direct) sub-folders of a given directory to the directory itself.
+Copies all files in (direct) sub-folders of a given directory to the directory itself.
 
 ## Usage
 `python defolderize.py path_to_main_directory`
